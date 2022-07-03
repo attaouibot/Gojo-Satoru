@@ -1793,12 +1793,12 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Script🔖',
+                                    displayText: 'instagram',
                                     url: `${sc}`
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'YouTube📍',
+                                    displayText: 'whatsapp group',
                                     url: `${myweb}`
                                 }
                             }, {
