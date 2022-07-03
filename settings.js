@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+212 674-874107']
-global.premium = ['+212 674-874107']
-global.ownernomer = '+212 674-874107'
-global.ownername = 'ZENX1'
+global.owner = ['https://wa.me/+212674874107']
+global.premium = ['https://wa.me/+212674874107']
+global.ownernomer = 'https://wa.me/+212674874107'
+global.ownername = 'yassine'
 global.botname = 'Zenx1'
 global.footer = '© Zenx1-Bot.'
 global.ig = 'https://instagram.com/7x8.q_'
